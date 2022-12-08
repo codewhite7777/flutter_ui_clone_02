@@ -19,12 +19,10 @@ AppBarTheme appTheme() {
     centerTitle: false,
     color: Colors.white,
     elevation: 0.0,
-    textTheme: TextTheme(
-      headline6: GoogleFonts.nanumGothic(
-        fontSize: 16.0,
-        fontWeight: FontWeight.bold,
-        color: Colors.black,
-      ),
+    titleTextStyle: GoogleFonts.nanumGothic(
+      fontSize: 16.0,
+      fontWeight: FontWeight.bold,
+      color: Colors.black,
     ),
   );
 }
