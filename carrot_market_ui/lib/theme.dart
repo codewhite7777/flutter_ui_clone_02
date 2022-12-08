@@ -33,8 +33,8 @@ AppBarTheme appTheme() {
 ThemeData theme() {
   return ThemeData(
     scaffoldBackgroundColor: Colors.white,
-    textTheme: TextTheme(),
-    appBarTheme: AppBarTheme(),
+    textTheme: textTheme(),
+    appBarTheme: appTheme(),
     primaryColor: Colors.orange,
   );
 }
