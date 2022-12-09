@@ -15,7 +15,6 @@ class HomeScreen extends StatelessWidget {
           children: [
             Text(
               '좌동',
-              style: textTheme().headline1,
             ),
             SizedBox(
               width: 4.0,
