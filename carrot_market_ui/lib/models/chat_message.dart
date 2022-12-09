@@ -30,5 +30,5 @@ List<ChatMessage> chatMessageList = [
       location: '중동',
       sendData: '2일전',
       message: '안녕하세요 지금 다 예약 상태인가요?',
-      imageUri: 'https://placeimg/com/200/100/tech/grayscale'),
+      imageUri: 'https://placeimg.com/200/100/tech/grayscale'),
 ];
